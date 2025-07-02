@@ -15,9 +15,6 @@ A modern, responsive Tic-Tac-Toe game built using pure HTML, CSS, and JavaScript
 2. Open `tic-tac-toe.html` in any modern web browser.
 3. Play and enjoy!
 
-## 📸 Preview
-![Preview](https://github.com/yourusername/tic-tac-toe-game/preview.png) <!-- Replace with actual link if uploading image -->
-
 ## 🧑‍💻 Author
 **Adarsh Raj**  
 © 2025 Adarsh Raj. All rights reserved.
